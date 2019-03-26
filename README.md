@@ -1,15 +1,20 @@
-# aerial_mapper
+# :star2: aerial_mapper
 
 Real-time Dense Point Cloud, Digital Surface Map (DSM) and (Ortho-)Mosaic Generation for UAVs
 
 https://github.com/ethz-asl/aerial_mapper
 
-# OpenDroneMap
+# :star2: OpenDroneMap
 https://github.com/OpenDroneMap/ODM
 
 https://github.com/OpenDroneMap/WebODM
 
 https://github.com/OpenDroneMap/ODM/wiki/ODM-Architecture-Overview
+
+# :star2: Aerial image stitching 
+Good how-to guide
+https://mono.software/2018/03/14/Image-stitching/
+https://gist.github.com/dinomono/70d5f9d049792a2cc0ad85245b0ef523
 
 
 # orthoimage_software_collection
