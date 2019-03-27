@@ -19,6 +19,23 @@ Good how-to guide
 https://mono.software/2018/03/14/Image-stitching/
 https://gist.github.com/dinomono/70d5f9d049792a2cc0ad85245b0ef523
 
+# Drone-Image-Stitching
+
+Image Stitching tool for UAV captured Images
+
+https://github.com/Shraeyas/Drone-Image-Stitching
+
+# Map2DFusion
+This is an open-source implementation of paper: Real-time Incremental UAV Image Mosaicing based on Monocular SLAM. 
+
+https://github.com/zdzhaoyong/Map2DFusion
+
+# UAV-Ortho
+
+Automatic georeferencing of UAV imagery with object recognition
+
+https://github.com/drwelby/UAV-Ortho
+
 # Orthophoto Generation
 
 Generating orthophotos using raw drone footage.
@@ -48,4 +65,13 @@ https://github.com/GEO-RS/OrthoMaker
 Plugin to calculate orthophotos from images and a DEM
 
 https://github.com/Kortforsyningen/QGIS-OrthoMaker
+
+# UAV-and-TrueOrtho
+Master's Thesis
+
+Application of UAV photos generates True Ortho Image
+
+Modify the distortion of DSM result in distortion of builing edge in True Ortho image
+
+https://github.com/LeonChen66/UAV-and-TrueOrtho
 
