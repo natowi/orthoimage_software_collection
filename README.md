@@ -75,3 +75,4 @@ Modify the distortion of DSM result in distortion of builing edge in True Ortho 
 
 https://github.com/LeonChen66/UAV-and-TrueOrtho
 
+http://zhaoyong.adv-ci.com/researches/map2dfusion/ (note: page takes long to load)
