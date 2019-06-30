@@ -25,6 +25,11 @@ Image Stitching tool for UAV captured Images
 
 https://github.com/Shraeyas/Drone-Image-Stitching
 
+# Rectify and stitch images
+Rectify and stitch images together using multiview geometry.
+
+https://github.com/alexhagiopol/orthomosaic
+
 # Map2DFusion
 This is an open-source implementation of paper: Real-time Incremental UAV Image Mosaicing based on Monocular SLAM. 
 
