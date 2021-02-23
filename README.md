@@ -76,7 +76,7 @@ Master's Thesis
 
 Application of UAV photos generates True Ortho Image
 
-Modify the distortion of DSM result in distortion of builing edge in True Ortho image
+Modify the distortion of DSM result in distortion of building edge in True Ortho image
 
 https://github.com/LeonChen66/UAV-and-TrueOrtho
 
