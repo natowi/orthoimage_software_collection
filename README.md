@@ -47,6 +47,12 @@ Generating orthophotos using raw drone footage.
 
 https://github.com/nunohumberto/drone_orthophoto_generation
 
+#  OrthomosaicSLAM
+
+Orthomosaic image stitching in realtime for drone based SLAM using a single downward facing camera 
+
+https://github.com/TextZip/OrthomosaicSLAM
+
 # UAV-Mapper
 Plugin to calculate orthophotos from images and a DEM
 
